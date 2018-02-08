@@ -20,7 +20,7 @@ public class MainActivity extends ListActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+		ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
 				android.R.layout.simple_list_item_checked, countries);
 
 		ListView listView = getListView();
