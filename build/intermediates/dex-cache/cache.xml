@@ -2,25 +2,83 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_73ab7c2f7dbc896a2f7660ab9aa25c0672cc1e91.jar" />
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_8671d16f24c9c9bc70fb4802aacb65e507265fdd.jar" />
     </item>
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_36aed7c9ac76852c68b881dc196d39d4e21f4dc9.jar" />
+        is-multidex="true"
+        jar="C:\Users\makn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_4c18d49c0f897449a1ac56561069b79125d70c59\classes.dex" />
     </item>
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\makn\.android\build-cache\9db539bccd19d1dce485da10157e097146be40b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_752f77cd3cc4d871e5b023649257d4cbff5e8b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57e43469cf351ae5652ce7dd4c91d84bca8986d9">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3e07f1265fe501977e63db1705b09e3106a9c0a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f1b22976867ac74f7ed42723a9363415d16aa273\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_a00efac7f029bf5608747d7ba770ee293c73e59c.jar" />
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_9500556115da5b71e1664ef8a3e6891665438ead.jar" />
+    </item>
+    <item
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_9500556115da5b71e1664ef8a3e6891665438ead.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\makn\.android\build-cache\9db539bccd19d1dce485da10157e097146be40b0\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_31805b2e5d34d82fb9a5f01d2eb01cf6c85cefa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\ListViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_8671d16f24c9c9bc70fb4802aacb65e507265fdd.jar" />
     </item>
 
 </items>
